@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Trang-1" id="BVXYbfnHVNo4o59ecTeZ">
+    <mxGraphModel dx="764" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WmcjCDLYRxZxZydON7sg" name="Trang-2">
+    <mxGraphModel dx="1057" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="220" x="140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ STUDENTS ]" vertex="1">
+          <mxGeometry height="30" width="140" x="180" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-33" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PK: Student_ID&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="150" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-34" edge="1" parent="1" source="jr7kXsaWGxQ3H8ynzUvl-31" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="jr7kXsaWGxQ3H8ynzUvl-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="530" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Fullname&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="76" x="194" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-36" edge="1" parent="1" source="jr7kXsaWGxQ3H8ynzUvl-31" style="endArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="227.00635256749592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="60" width="100" x="390" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="220" x="520" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[&amp;nbsp; ADDRESS&amp;nbsp; ]" vertex="1">
+          <mxGeometry height="30" width="140" x="560" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-41" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PK: Address_ID&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="530" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-42" edge="1" parent="1" source="jr7kXsaWGxQ3H8ynzUvl-39" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="jr7kXsaWGxQ3H8ynzUvl-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="750" y="530" as="sourcePoint" />
+            <mxPoint x="800" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr7kXsaWGxQ3H8ynzUvl-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;FK: Student_ID&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;House_No&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ward&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;District&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Province&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="116" x="572" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
